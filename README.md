@@ -1,7 +1,16 @@
 ### :smile: Eu sou o William 👋
 
-<!--
-**WillDavid/WillDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">About</h3>
+<p>:one: Acadêmico de Licenciatura em Computação </p>
+
+<h3 align="left">O que eu estou estudando?</h3>
+<p>:one: HTML</p>
+<p>:two: CSS</p>
+<p>:three: JavaScript</p>
+<p>:four: React.Js</p>
+
+<h3 align="left"> Artigos Cientificos: </h3> 
+
 
 Here are some ideas to get you started:
 
