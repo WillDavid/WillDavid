@@ -24,5 +24,5 @@
 <p>Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</P>
 
 
-
-<h2 align="left">:email: Entre em contato: <a href="https://www.linkedin.com/in/wdma/">Linkedin</a></h2>
+<hr>
+<h3 align="left">:email: Entre em contato: <a href="https://www.linkedin.com/in/wdma/">Linkedin</a></h3>
