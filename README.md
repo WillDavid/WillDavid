@@ -1,4 +1,4 @@
-<h3 align="left">:alien: Oi, eu sou o Will</h3>
+<h3 align="left">:space_invader: Oi, eu sou o Will</h3>
 
 <h3 align="left">:mag: Sobre</h3>
 <p>Acadêmico de licenciatura em Computação (UEA), experiência como educador profissional em franquia, pesquisador voluntário, desenvolvimento de jogos e web. Atualmente mergulhando no mundo Front-End.</p>
@@ -21,3 +21,8 @@
 <p> Hub - Tecnologia e Inovação (P&D)
 <p> LabTEd - Laboratório de Tecnologias Educacionais (P&D)
 <p> S.O.S - Tecnologia e Educação (Instrutor)
+<p>Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</P>
+
+
+
+<h2 align="left">:email: Entre em contato: <a href="https://www.linkedin.com/in/wdma/">Linkedin</a></h2>
