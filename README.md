@@ -1,9 +1,9 @@
-### :smile: Eu sou o Will 👋
+<h2 align="left">:alien: Oi, eu sou o Will</h2>
 
 <h3 align="left">:mag: Sobre</h3>
 <p>Acadêmico de licenciatura em Computação (UEA), experiência como educador profissional em franquia, pesquisador voluntário, desenvolvimento de jogos e web. Atualmente mergulhando no mundo Front-End.</p>
 
-<h3 align="left">:books: O que eu estou estudando?</h3>
+<h3 align="left">:books: O que eu estou estudando? (Outubro)</h3>
 <p>:one: HTML</p>
 <p>:two: CSS</p>
 <p>:three: JavaScript</p>
