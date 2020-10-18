@@ -11,11 +11,11 @@
 
 <h3 align="left">:mortar_board: Artigos Cientificos /Publicações: </h3>
 
-<a href="http://www3.uea.edu.br/home.php?dest=noticia&notId=65291">Guia de Tecnologias Digitais para o Ensino Remoto</a>
+<a href="http://www3.uea.edu.br/home.php?dest=noticia&notId=65291" target="_blank">Guia de Tecnologias Digitais para o Ensino Remoto</a>
 
-<a href="https://www.br-ie.org/pub/index.php/wcbie/article/view/8238">Tricô numérico: Um jogo para alfabetização matemática</a>
+<a href="https://www.br-ie.org/pub/index.php/wcbie/article/view/8238" target="_blank">Tricô numérico: Um jogo para alfabetização matemática</a>
 
-<a href="#">A Aplicação de uma Sequência Didática no Processo de Desenvolvimento do Pensamento Computacional com Alunos do 4º Ano do Ensino Fundamental I</a>
+<a href="#" target="_blank">A Aplicação de uma Sequência Didática no Processo de Desenvolvimento do Pensamento Computacional com Alunos do 4º Ano do Ensino Fundamental I</a>
 
 <h3 align="left">:office: Histórico profissional </h3>
 <p> Hub - Tecnologia e Inovação (P&D)
