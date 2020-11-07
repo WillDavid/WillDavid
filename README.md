@@ -3,11 +3,12 @@
 <h3 align="left">:mag: Sobre</h3>
 <p>Acadêmico de licenciatura em Computação (UEA), experiência como educador profissional em franquia, pesquisador voluntário, desenvolvimento de jogos e web. Atualmente mergulhando no mundo Front-End.</p>
 
-<h3 align="left">:books: O que eu estou estudando? (Outubro)</h3>
-<p>:one: HTML</p>
-<p>:two: CSS</p>
-<p>:three: JavaScript</p>
-<p>:four: React.Js</p>
+<h3 align="left">:books: O que eu estou estudando? (Novembro)</h3>
+<p>:one: CSS Técnicas Avançadas com FlexBox</p>
+<p>:two: JavaScript para DOM</p>
+<p>:three: React.JS</p>
+<p>:four: Node.JS</p>
+<p>:five: Figma para Front End</p>
 
 <h3 align="left">:mortar_board: Artigos Cientificos /Publicações: </h3>
 
@@ -21,7 +22,14 @@
 <p> Hub - Tecnologia e Inovação (P&D)
 <p> LabTEd - Laboratório de Tecnologias Educacionais (P&D)
 <p> S.O.S - Tecnologia e Educação (Instrutor)
-<p>Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</P>
+<p>Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</p>
+
+<h3 align="left">:pushpin: Última UI desenvolvida </h3>
+<img src="https://i.ibb.co/qp7nnmV/Fylo-data-storage-component.png">
+
+<h3 align="left">:computer: Progresso de cursos</h3>
+<p>:one: HTML5 e CSS3: Técnicas Avançadas (Com Flexbox e 5 Projetos) - 90% </p>
+<p>:two: Figma: Design colaborativo do básico ao protótipo responsivo - 15% </p>
 
 
 <h3 align="left">:email: Entre em contato: <a href="https://www.linkedin.com/in/wdma/">Linkedin</a></h3>
