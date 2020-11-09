@@ -25,7 +25,7 @@
 <p>Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</p>
 
 <h3 align="left">:pushpin: Últimos trabalhos </h3>
-<img src="https://i.ibb.co/xLVBcPy/Design-UI.gif>
+<img src="https://i.ibb.co/xLVBcPy/Design-UI.gif">
 
 
 <h3 align="left">:computer: Progresso de cursos</h3>
