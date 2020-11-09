@@ -24,12 +24,12 @@
 <p> S.O.S - Tecnologia e Educação (Instrutor)
 <p>Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</p>
 
-<h3 align="left">:pushpin: Últimos trabalhos </h3>
+<h3 align="left">:pushpin: Últimos trabalhos (GIF)</h3>
 <img src="https://i.ibb.co/xLVBcPy/Design-UI.gif">
 
 
-<h3 align="left">:computer: Progresso de cursos</h3>
-<p>:one: HTML5 e CSS3: Técnicas Avançadas (Com Flexbox e 5 Projetos) - 90% </p>
+<h3 align="left">:computer: Cursos % (Novembro)</h3>
+<p>:one: HTML5 e CSS3: Técnicas Avançadas (Com Flexbox e 5 Projetos) - 100% </p>
 <p>:two: Figma: Design colaborativo do básico ao protótipo responsivo - 15% </p>
 
 
