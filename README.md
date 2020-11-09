@@ -24,8 +24,9 @@
 <p> S.O.S - Tecnologia e Educação (Instrutor)
 <p>Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</p>
 
-<h3 align="left">:pushpin: Última UI desenvolvida </h3>
-<img src="https://i.ibb.co/qp7nnmV/Fylo-data-storage-component.png">
+<h3 align="left">:pushpin: Últimos trabalhos </h3>
+<img src="https://i.ibb.co/xLVBcPy/Design-UI.gif>
+
 
 <h3 align="left">:computer: Progresso de cursos</h3>
 <p>:one: HTML5 e CSS3: Técnicas Avançadas (Com Flexbox e 5 Projetos) - 90% </p>
