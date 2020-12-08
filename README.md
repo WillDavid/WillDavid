@@ -3,8 +3,8 @@
 <h3 align="left">:mag: Sobre</h3>
 <p>Acadêmico de licenciatura em Computação (UEA), experiência como educador profissional em franquia, pesquisador voluntário, desenvolvimento de jogos e web. Atualmente mergulhando no mundo Front-End.</p>
 
-<h3 align="left">:books: Minhas últimas interfaces (frontEnd mentor): </h3>
-<img src="https://i.ibb.co/bNGGvBK/Screenshot-2020-12-03-Frontend-Mentor-Base-Apparel-coming-soon-page.png">
+<h3 align="left">:books: Última interface (FrontEnd Mentor): </h3>
+<img style="width:1280px, height:720px" ssrc="https://i.ibb.co/bNGGvBK/Screenshot-2020-12-03-Frontend-Mentor-Base-Apparel-coming-soon-page.png">
 
 
 <h3 align="left">:mortar_board: Artigos Cientificos /Publicações: </h3>
