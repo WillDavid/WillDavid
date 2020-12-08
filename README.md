@@ -3,13 +3,8 @@
 <h3 align="left">:mag: Sobre</h3>
 <p>Acadêmico de licenciatura em Computação (UEA), experiência como educador profissional em franquia, pesquisador voluntário, desenvolvimento de jogos e web. Atualmente mergulhando no mundo Front-End.</p>
 
-<h3 align="left">:books: Minhas Habilidades (Front-End)</h3>
-<p>:one: HTML & CSS</p>
-<p>:two: JavaScript</p>
-<p>:three: React.js</p>
-<p>:four: Bootstrap</p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/>
+<h3 align="left">:books: Minhas últimas interfaces (frontEnd mentor): </h3>
+<img src="https://i.ibb.co/bNGGvBK/Screenshot-2020-12-03-Frontend-Mentor-Base-Apparel-coming-soon-page.png">
 
 
 <h3 align="left">:mortar_board: Artigos Cientificos /Publicações: </h3>
@@ -26,9 +21,8 @@
 <p> S.O.S - Tecnologia e Educação (Instrutor)
 <p> Bolsista de PIBID - Programa Institucional de Bolsas de Iniciação à Docência</p>
 
-<h3 align="left">:computer: Cursos % (Novembro)</h3>
-<p>:one: HTML5 e CSS3: Técnicas Avançadas (Com Flexbox e 5 Projetos) - 100% (8 horas)</p>
-<p>:two: Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! - 5% (45 horas) </p>
+<h3 align="left">:computer: Cursos % (Dezembro)</h3>
+<p>:one: Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! - 10% (45 horas) </p>
 
 
 <h3 align="left">:email: Entre em contato: <a href="https://www.linkedin.com/in/wdma/">Linkedin</a></h3>
