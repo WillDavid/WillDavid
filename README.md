@@ -1,6 +1,6 @@
 
 ## Oi, eu sou o Will
-<span style="text-align:justify; font-size: 4px;">Sou um entusiasta de tecnologia e inovação e atualmente atuo como desenvolvedor <strong>Front-End e Scrum Master</strong> na Zona Franca de Manaus. Como desenvolvedor, minha responsabilidade é criar soluções para processos industriais específicos da região, utilizando as mais recentes tecnologias de Front-End. Também exerço o papel de Scrum Master, liderando equipes e gerenciando projetos de forma ágil. </span>
+<span style="text-align:justify; font-size: 4px;">Sou um entusiasta de tecnologia e inovação e atualmente atuo como desenvolvedor <strong>Front-End e Scrum Master</strong> na Zona Franca de Manaus. Como desenvolvedor, minha responsabilidade é criar soluções para processos industriais específicos da região, utilizando as mais recentes tecnologias de Front-End. Também exerço o papel de Scrum Master, organizando equipes e gerenciando projetos de forma ágil. </span>
 
 ## Status 2023
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillDavid&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
